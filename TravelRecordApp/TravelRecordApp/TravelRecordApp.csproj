@@ -11,7 +11,36 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2545" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.5" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2545" />
+    <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="SQLitePCLRaw.core" />
+    <None Remove="sqlite-net-pcl" />
+    <None Remove="Model\" />
+    <None Remove="Xamarin.Forms.GoogleMaps" />
+    <None Remove="Xamarin.Forms.Maps" />
+    <None Remove="Xam.Plugin.Geolocator" />
+    <None Remove="Helpers\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Logic\" />
+    <None Remove="Assets\" />
+    <None Remove="Assets\Images\" />
+    <None Remove="Assets\Images\entryIcon.jpg" />
+    <None Remove="Assets\Images\entryIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Logic\" />
+    <Folder Include="Assets\" />
+    <Folder Include="Assets\Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\Images\entryIcon.jpg" />
   </ItemGroup>
 </Project>
