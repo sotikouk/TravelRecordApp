@@ -1,0 +1,17 @@
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/bin/Debug/netstandard2.0/TravelRecordApp.deps.json
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/bin/Debug/netstandard2.0/TravelRecordApp.dll
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/bin/Debug/netstandard2.0/TravelRecordApp.pdb
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.csproj.AssemblyReference.cache
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.AssemblyInfoInputs.cache
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.AssemblyInfo.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.csproj.CoreCompileInputs.cache
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.dll
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.pdb
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
