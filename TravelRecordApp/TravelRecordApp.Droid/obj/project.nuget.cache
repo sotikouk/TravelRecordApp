@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "X85aeGaGzx20Jr9mmF/wAnCHOtglt5U/RmOla4PDj7Zkw2IMUIRURQpGVd1zoV7bRKoNlMIUXXJkperEY5zRYg==",
+  "dgSpecHash": "AwKqctto0+xjronNYkt64REFInVVocTATEbx7roNWs6KGdg4Uz/qnJQReR+V9qrhfBsp3RePvlDQm8uP/FtEtg==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.Droid/TravelRecordApp.Droid.csproj",
   "expectedPackageFiles": [
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.lib.e_sqlite3.android/2.1.2/sqlitepclraw.lib.e_sqlite3.android.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.androidx.annotation/1.1.0.8/xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.androidx.annotation.experimental/1.0.0.8/xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

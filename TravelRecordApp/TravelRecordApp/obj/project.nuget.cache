@@ -1,11 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "63wQCIE+Y7ElbOGGQRlPK34JkK+pIBpFla/ahZPZQzchGXzpPkwry6qb86RAmS0zgbs2ceI62rRV7+UMgSqY6Q==",
+  "dgSpecHash": "tPpKSjLeX0noROGLBoGVx9056ESME12zvpYpp2k1lhsw5ei2G6Wk77zxYaAP4gSZn3QPBH1D1NWMB2F7naV9wg==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
   "expectedPackageFiles": [
     "/Users/sotirioskoukoumtzis/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
