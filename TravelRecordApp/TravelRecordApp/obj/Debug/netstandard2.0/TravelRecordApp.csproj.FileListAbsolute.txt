@@ -15,3 +15,4 @@
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/AddPage.xaml.g.cs
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/PostDetailPage.xaml.g.cs
