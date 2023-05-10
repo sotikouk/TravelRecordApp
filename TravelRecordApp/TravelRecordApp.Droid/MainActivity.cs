@@ -20,7 +20,9 @@ namespace TravelRecordApp.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            Xamarin.FormsMaps.Init(this, savedInstanceState);
 
             string dbName = "travel_db.sqlite";
             string dbPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);

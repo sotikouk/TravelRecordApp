@@ -36,9 +36,33 @@
       "frameworks": {
         "monoandroid12.0": {
           "dependencies": {
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[5.0.0-beta, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[118.1.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[118.1.0.2, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[118.1.0.1, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -88,7 +112,19 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[5.0.0-beta, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
             "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.Maps": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
             },

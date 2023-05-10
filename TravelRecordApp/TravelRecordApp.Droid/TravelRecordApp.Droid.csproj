@@ -47,7 +47,13 @@
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="sqlite-net-pcl" Version="1.9.141-beta" />
+        <PackageReference Include="Xam.Plugin.Geolocator" Version="5.0.0-beta" />
+        <PackageReference Include="Xamarin.Essentials" Version="1.7.5" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+        <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2012" />
+        <PackageReference Include="Xamarin.GooglePlayServices.Base" Version="118.1.0.1" />
+        <PackageReference Include="Xamarin.GooglePlayServices.Basement" Version="118.1.0.2" />
+        <PackageReference Include="Xamarin.GooglePlayServices.Maps" Version="118.1.0.1" />
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainActivity.cs" />
