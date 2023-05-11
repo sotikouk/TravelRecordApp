@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "awB+YCnj/CRbTBSd/Ted2cp37WYWttyd4NROXKT+h36Xf8gBFZ6/QuOugd00bgnwEkwuI4u+OcdTTkzSVB8MGg==",
+  "dgSpecHash": "f7CU+dK+pUmYmhqVwSuWtjQjQjqEGUkF6grN+FVtpZDhK6ZJLcYRWWkMN9+U1P7TpC4SvBeOiVJs5jItDrObmA==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.Droid/TravelRecordApp.Droid.csproj",
   "expectedPackageFiles": [
+    "/Users/sotirioskoukoumtzis/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",

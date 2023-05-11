@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vME5Hkq+NP/OC7iF12WQt5IPVTND31/rxS8JH2D7+h5dCWUutck9rO8EwFx3LgnWKruvXE34/KCBXgBTHAMIFw==",
+  "dgSpecHash": "wDu5VdyGfMUa09zRcF5NeYfe3Hm1khqQdjLidmYki5VJtzTM713NPdGp99H/NX74r0oE4MC9wVXV25AaJ82TGQ==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
   "expectedPackageFiles": [
     "/Users/sotirioskoukoumtzis/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",

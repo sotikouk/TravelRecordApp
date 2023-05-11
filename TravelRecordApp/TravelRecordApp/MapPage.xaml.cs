@@ -18,6 +18,7 @@ namespace TravelRecordApp
     public partial class MapPage : ContentPage
     {
         IGeolocator locator = CrossGeolocator.Current;
+
         public MapPage()
         {
             InitializeComponent();
