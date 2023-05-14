@@ -66,10 +66,13 @@
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.4/_ProcessedBundleResourcesPath.items
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.4/_ProcessedContentPath.items
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.4/optimized/
-/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/TravelRecordApp.stamp
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/OpenTK-1.0.stamp
+/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/Plugin.Permissions.stamp
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/SQLite-net.stamp
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/SQLitePCLRaw.batteries_v2.stamp
 /Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/resourcestamps/SQLitePCLRaw.core.stamp

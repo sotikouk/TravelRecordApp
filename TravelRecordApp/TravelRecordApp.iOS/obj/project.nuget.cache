@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7ysstYFI/oLyfnFTHumTyvBL/dFSQV9knV7Ghy3jq7t/5FkuL1cXQ2qMDYbbF5lztN9CZ+j6wSZMBM/sJbEuWQ==",
+  "dgSpecHash": "GiUqwGupgV1ma88UEQKSkX9U5Zjdg8r4HRHnpPND9U5LDbGcwsXUavMgTMx+JBCBq8wYio3pyA3iZ2VkodL9bQ==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/sotirioskoukoumtzis/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/plugin.permissions/3.0.0.12/plugin.permissions.3.0.0.12.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlite-net-pcl/1.9.141-beta/sqlite-net-pcl.1.9.141-beta.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
@@ -13,10 +14,24 @@
     "/Users/sotirioskoukoumtzis/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "/Users/sotirioskoukoumtzis/.nuget/packages/xam.plugin.geolocator/5.0.0-beta/xam.plugin.geolocator.5.0.0-beta.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/xam.plugin.geolocator/4.5.0.6/xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.essentials/1.8.0-preview1/xamarin.essentials.1.8.0-preview1.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms/5.0.0.2599-pre1/xamarin.forms.5.0.0.2599-pre1.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms.maps/5.0.0.2599-pre1/xamarin.forms.maps.5.0.0.2599-pre1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xam.Plugin.Geolocator from 5.0.0-beta to 4.5.0.6. Reference the package directly from the project to select a different version. \n TravelRecordApp.iOS -> TravelRecordApp -> Xam.Plugin.Geolocator (>= 5.0.0-beta) \n TravelRecordApp.iOS -> Xam.Plugin.Geolocator (>= 4.5.0.6)",
+      "libraryId": "Xam.Plugin.Geolocator",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

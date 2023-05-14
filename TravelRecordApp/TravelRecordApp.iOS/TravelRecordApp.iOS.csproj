@@ -108,7 +108,7 @@
     <ItemGroup>
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
         <PackageReference Include="sqlite-net-pcl" Version="1.9.141-beta" />
-        <PackageReference Include="Xam.Plugin.Geolocator" Version="5.0.0-beta" />
+        <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
         <PackageReference Include="Xamarin.Essentials" Version="1.8.0-preview1" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2599-pre1" />
         <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2599-pre1" />

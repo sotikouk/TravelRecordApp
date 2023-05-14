@@ -42,7 +42,7 @@
             },
             "Xam.Plugin.Geolocator": {
               "target": "Package",
-              "version": "[5.0.0-beta, )"
+              "version": "[4.5.0.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

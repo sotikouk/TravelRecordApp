@@ -15,6 +15,19 @@
           }
         }
       },
+      "Plugin.Permissions/3.0.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "sqlite-net-pcl/1.9.141-beta": {
         "type": "package",
         "dependencies": {
@@ -129,22 +142,19 @@
           }
         }
       },
-      "Xam.Plugin.Geolocator/5.0.0-beta": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0"
+          "Plugin.Permissions": "3.0.0.12"
         },
-        "frameworkAssemblies": [
-          "System.Drawing.Common.dll"
-        ],
         "compile": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         },
         "runtime": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         }
       },
@@ -359,6 +369,19 @@
           }
         }
       },
+      "Plugin.Permissions/3.0.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "sqlite-net-pcl/1.9.141-beta": {
         "type": "package",
         "dependencies": {
@@ -473,22 +496,19 @@
           }
         }
       },
-      "Xam.Plugin.Geolocator/5.0.0-beta": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0"
+          "Plugin.Permissions": "3.0.0.12"
         },
-        "frameworkAssemblies": [
-          "System.Drawing.Common.dll"
-        ],
         "compile": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         },
         "runtime": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         }
       },
@@ -703,6 +723,19 @@
           }
         }
       },
+      "Plugin.Permissions/3.0.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "sqlite-net-pcl/1.9.141-beta": {
         "type": "package",
         "dependencies": {
@@ -817,22 +850,19 @@
           }
         }
       },
-      "Xam.Plugin.Geolocator/5.0.0-beta": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0"
+          "Plugin.Permissions": "3.0.0.12"
         },
-        "frameworkAssemblies": [
-          "System.Drawing.Common.dll"
-        ],
         "compile": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         },
         "runtime": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         }
       },
@@ -1047,6 +1077,19 @@
           }
         }
       },
+      "Plugin.Permissions/3.0.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "sqlite-net-pcl/1.9.141-beta": {
         "type": "package",
         "dependencies": {
@@ -1161,22 +1204,19 @@
           }
         }
       },
-      "Xam.Plugin.Geolocator/5.0.0-beta": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0"
+          "Plugin.Permissions": "3.0.0.12"
         },
-        "frameworkAssemblies": [
-          "System.Drawing.Common.dll"
-        ],
         "compile": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         },
         "runtime": {
           "lib/xamarinios10/Plugin.Geolocator.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml"
           }
         }
       },
@@ -1409,6 +1449,29 @@
         "packageIcon.png"
       ]
     },
+    "Plugin.Permissions/3.0.0.12": {
+      "sha512": "VrYqI/ufk3bH6gTP1JJlLByjhS0CHu3riKmdozhX9/qXA9hlvLolmcqKJdyAqpzmrVC74m3ZtirUBIrBxvT1Lw==",
+      "type": "package",
+      "path": "plugin.permissions/3.0.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid71/Plugin.Permissions.dll",
+        "lib/monoandroid71/Plugin.Permissions.xml",
+        "lib/netstandard1.0/Plugin.Permissions.dll",
+        "lib/netstandard1.0/Plugin.Permissions.xml",
+        "lib/netstandard2.0/Plugin.Permissions.dll",
+        "lib/netstandard2.0/Plugin.Permissions.xml",
+        "lib/uap10.0.10240/Plugin.Permissions.dll",
+        "lib/uap10.0.10240/Plugin.Permissions.pri",
+        "lib/uap10.0.10240/Plugin.Permissions.xml",
+        "lib/xamarinios10/Plugin.Permissions.dll",
+        "lib/xamarinios10/Plugin.Permissions.xml",
+        "plugin.permissions.3.0.0.12.nupkg.sha512",
+        "plugin.permissions.nuspec",
+        "readme.txt"
+      ]
+    },
     "sqlite-net-pcl/1.9.141-beta": {
       "sha512": "Gskp3AN9dZ3vrWrDNVm1C9cKMnLLfLWJbnEZ783Mg7zdet9ri3AuI8Fr7LuS157sW91ombyQTij/I12rn7gx0w==",
       "type": "package",
@@ -1588,36 +1651,30 @@
         "version.txt"
       ]
     },
-    "Xam.Plugin.Geolocator/5.0.0-beta": {
-      "sha512": "0BuJ4HlkjKM4Fc23+u8h0nW8IU1RlviWSPrbRN+RjxeG91m4LeLEWzLRC8aDU7oMnl/U2HWp87a9iAhYx0jIRg==",
+    "Xam.Plugin.Geolocator/4.5.0.6": {
+      "sha512": "Ro7peBDxsDXPc7J7yLx0ekAcXIfVTAXj/rXiBKiTgZ4Lm7KZJIU8PXOCcI4JztzT3MQrL8Rmka48il/ix0pwoA==",
       "type": "package",
-      "path": "xam.plugin.geolocator/5.0.0-beta",
+      "path": "xam.plugin.geolocator/4.5.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/monoandroid10.0/Plugin.Geolocator.dll",
-        "lib/monoandroid10.0/Plugin.Geolocator.pdb",
-        "lib/monoandroid10.0/Plugin.Geolocator.xml",
+        "lib/monoandroid71/Plugin.Geolocator.dll",
+        "lib/monoandroid71/Plugin.Geolocator.xml",
         "lib/netstandard1.0/Plugin.Geolocator.dll",
-        "lib/netstandard1.0/Plugin.Geolocator.pdb",
         "lib/netstandard1.0/Plugin.Geolocator.xml",
         "lib/netstandard2.0/Plugin.Geolocator.dll",
-        "lib/netstandard2.0/Plugin.Geolocator.pdb",
         "lib/netstandard2.0/Plugin.Geolocator.xml",
-        "lib/uap10.0.16299/Plugin.Geolocator.dll",
-        "lib/uap10.0.16299/Plugin.Geolocator.pdb",
-        "lib/uap10.0.16299/Plugin.Geolocator.pri",
-        "lib/uap10.0.16299/Plugin.Geolocator.xml",
+        "lib/uap10.0.10240/Plugin.Geolocator.dll",
+        "lib/uap10.0.10240/Plugin.Geolocator.pri",
+        "lib/uap10.0.10240/Plugin.Geolocator.xml",
         "lib/xamarinios10/Plugin.Geolocator.dll",
-        "lib/xamarinios10/Plugin.Geolocator.pdb",
         "lib/xamarinios10/Plugin.Geolocator.xml",
         "lib/xamarinmac20/Plugin.Geolocator.dll",
-        "lib/xamarinmac20/Plugin.Geolocator.pdb",
         "lib/xamarinmac20/Plugin.Geolocator.xml",
         "lib/xamarintvos10/Plugin.Geolocator.dll",
-        "lib/xamarintvos10/Plugin.Geolocator.pdb",
         "lib/xamarintvos10/Plugin.Geolocator.xml",
-        "xam.plugin.geolocator.5.0.0-beta.nupkg.sha512",
+        "readme.txt",
+        "xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
         "xam.plugin.geolocator.nuspec"
       ]
     },
@@ -1927,7 +1984,7 @@
     "Xamarin.iOS,Version=v1.0": [
       "Newtonsoft.Json >= 13.0.3",
       "TravelRecordApp >= 1.0.0",
-      "Xam.Plugin.Geolocator >= 5.0.0-beta",
+      "Xam.Plugin.Geolocator >= 4.5.0.6",
       "Xamarin.Essentials >= 1.8.0-preview1",
       "Xamarin.Forms >= 5.0.0.2599-pre1",
       "Xamarin.Forms.Maps >= 5.0.0.2599-pre1",
@@ -1975,7 +2032,7 @@
           },
           "Xam.Plugin.Geolocator": {
             "target": "Package",
-            "version": "[5.0.0-beta, )"
+            "version": "[4.5.0.6, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
@@ -2007,5 +2064,20 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xam.Plugin.Geolocator from 5.0.0-beta to 4.5.0.6. Reference the package directly from the project to select a different version. \n TravelRecordApp.iOS -> TravelRecordApp -> Xam.Plugin.Geolocator (>= 5.0.0-beta) \n TravelRecordApp.iOS -> Xam.Plugin.Geolocator (>= 4.5.0.6)",
+      "libraryId": "Xam.Plugin.Geolocator",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
