@@ -3,6 +3,9 @@
   <component name="UserContentModel">
     <attachedFolders />
     <explicitIncludes />
-    <explicitExcludes />
+    <explicitExcludes>
+      <Path>TravelRecordApp/TravelRecordApp.Droid/Resources/res/drawable-hdpi/add.png</Path>
+      <Path>TravelRecordApp/TravelRecordApp.Droid/Resources/res/drawable-hdpi/home.png</Path>
+    </explicitExcludes>
   </component>
 </project>

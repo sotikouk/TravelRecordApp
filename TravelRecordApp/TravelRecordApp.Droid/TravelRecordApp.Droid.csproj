@@ -49,6 +49,7 @@
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
         <PackageReference Include="sqlite-net-pcl" Version="1.9.141-beta" />
         <PackageReference Include="Xam.Plugin.Geolocator" Version="5.0.0-beta" />
+        <PackageReference Include="Xamarin.AndroidX.RecyclerView" Version="1.3.0" />
         <PackageReference Include="Xamarin.Essentials" Version="1.7.5" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
         <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2012" />
@@ -77,6 +78,33 @@
             <Project>{881831CF-DDC8-403A-B004-7AA1EED160E6}</Project>
             <Name>TravelRecordApp</Name>
         </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+      <AndroidResource Include="Resources\drawable-hdpi\add.png" />
+      <AndroidResource Include="Resources\drawable-hdpi\home.png" />
+      <AndroidResource Include="Resources\drawable-hdpi\map.png" />
+      <AndroidResource Include="Resources\drawable-hdpi\save.png" />
+      <AndroidResource Include="Resources\drawable-hdpi\user.png" />
+      <AndroidResource Include="Resources\drawable-mdpi\add.png" />
+      <AndroidResource Include="Resources\drawable-mdpi\home.png" />
+      <AndroidResource Include="Resources\drawable-mdpi\map.png" />
+      <AndroidResource Include="Resources\drawable-mdpi\save.png" />
+      <AndroidResource Include="Resources\drawable-mdpi\user.png" />
+      <AndroidResource Include="Resources\drawable-xhdpi\add.png" />
+      <AndroidResource Include="Resources\drawable-xhdpi\home.png" />
+      <AndroidResource Include="Resources\drawable-xhdpi\map.png" />
+      <AndroidResource Include="Resources\drawable-xhdpi\save.png" />
+      <AndroidResource Include="Resources\drawable-xhdpi\user.png" />
+      <AndroidResource Include="Resources\drawable-xxhdpi\add.png" />
+      <AndroidResource Include="Resources\drawable-xxhdpi\home.png" />
+      <AndroidResource Include="Resources\drawable-xxhdpi\map.png" />
+      <AndroidResource Include="Resources\drawable-xxhdpi\save.png" />
+      <AndroidResource Include="Resources\drawable-xxhdpi\user.png" />
+      <AndroidResource Include="Resources\drawable-xxxhdpi\add.png" />
+      <AndroidResource Include="Resources\drawable-xxxhdpi\home.png" />
+      <AndroidResource Include="Resources\drawable-xxxhdpi\map.png" />
+      <AndroidResource Include="Resources\drawable-xxxhdpi\save.png" />
+      <AndroidResource Include="Resources\drawable-xxxhdpi\user.png" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

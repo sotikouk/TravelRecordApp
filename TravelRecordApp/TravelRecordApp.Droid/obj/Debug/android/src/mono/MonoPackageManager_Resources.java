@@ -29,6 +29,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.Core.dll",
 		"Xamarin.AndroidX.CursorAdapter.dll",
 		"Xamarin.AndroidX.CustomView.dll",
+		"Xamarin.AndroidX.CustomView.PoolingContainer.dll",
 		"Xamarin.AndroidX.DocumentFile.dll",
 		"Xamarin.AndroidX.DrawerLayout.dll",
 		"Xamarin.AndroidX.Fragment.dll",

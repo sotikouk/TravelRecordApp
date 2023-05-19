@@ -17,4 +17,13 @@
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
         <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2012" />
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Assets\Images\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Assets\Images\plane.png" />
+      <EmbeddedResource Include="Assets\Images\plane.png" />
+    </ItemGroup>
 </Project>

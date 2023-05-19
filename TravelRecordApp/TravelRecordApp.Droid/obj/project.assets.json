@@ -205,11 +205,11 @@
           "buildTransitive/monoandroid12.0/Xamarin.AndroidX.Activity.targets": {}
         }
       },
-      "Xamarin.AndroidX.Annotation/1.5.0.2": {
+      "Xamarin.AndroidX.Annotation/1.6.0": {
         "type": "package",
         "dependencies": {
           "Xamarin.AndroidX.Migration": "1.0.10",
-          "Xamarin.Kotlin.StdLib": "1.8.0.1"
+          "Xamarin.Kotlin.StdLib": "1.8.10"
         },
         "frameworkAssemblies": [
           "Java.Interop",
@@ -644,6 +644,36 @@
         },
         "build": {
           "buildTransitive/monoandroid12.0/Xamarin.AndroidX.CustomView.targets": {}
+        }
+      },
+      "Xamarin.AndroidX.CustomView.PoolingContainer/1.0.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Core.Core.Ktx": "1.9.0.2",
+          "Xamarin.Kotlin.StdLib": "1.8.0.1"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.targets": {}
         }
       },
       "Xamarin.AndroidX.DocumentFile/1.0.1.6": {
@@ -1162,29 +1192,37 @@
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Print.targets": {}
         }
       },
-      "Xamarin.AndroidX.RecyclerView/1.1.0.6": {
+      "Xamarin.AndroidX.RecyclerView/1.3.0": {
         "type": "package",
         "dependencies": {
-          "Xamarin.AndroidX.Annotation": "1.1.0.8",
-          "Xamarin.AndroidX.Collection": "1.1.0.6",
-          "Xamarin.AndroidX.Core": "1.3.2.1",
-          "Xamarin.AndroidX.CustomView": "1.1.0.4"
+          "Xamarin.AndroidX.Annotation": "1.6.0",
+          "Xamarin.AndroidX.Collection": "1.2.0.6",
+          "Xamarin.AndroidX.Core": "1.9.0.2",
+          "Xamarin.AndroidX.CustomView": "1.1.0.15",
+          "Xamarin.AndroidX.CustomView.PoolingContainer": "1.0.0.2"
         },
         "frameworkAssemblies": [
-          "Java.Interop"
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {
-            "related": ".pdb"
+          "lib/monoandroid12.0/Xamarin.AndroidX.RecyclerView.dll": {
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {
-            "related": ".pdb"
+          "lib/monoandroid12.0/Xamarin.AndroidX.RecyclerView.dll": {
+            "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/monoandroid90/Xamarin.AndroidX.RecyclerView.targets": {}
+          "buildTransitive/monoandroid12.0/Xamarin.AndroidX.RecyclerView.targets": {}
         }
       },
       "Xamarin.AndroidX.SavedState/1.2.0.2": {
@@ -1766,11 +1804,11 @@
           "buildTransitive/monoandroid12.0/Xamarin.Jetbrains.Annotations.targets": {}
         }
       },
-      "Xamarin.Kotlin.StdLib/1.8.0.1": {
+      "Xamarin.Kotlin.StdLib/1.8.10": {
         "type": "package",
         "dependencies": {
           "Xamarin.Jetbrains.Annotations": "24.0.0.1",
-          "Xamarin.Kotlin.StdLib.Common": "1.8.0.1"
+          "Xamarin.Kotlin.StdLib.Common": "1.8.10"
         },
         "frameworkAssemblies": [
           "Java.Interop",
@@ -1796,7 +1834,7 @@
           "buildTransitive/monoandroid12.0/Xamarin.Kotlin.StdLib.targets": {}
         }
       },
-      "Xamarin.Kotlin.StdLib.Common/1.8.0.1": {
+      "Xamarin.Kotlin.StdLib.Common/1.8.10": {
         "type": "package",
         "frameworkAssemblies": [
           "Java.Interop",
@@ -2244,10 +2282,10 @@
         "xamarin.androidx.activity.nuspec"
       ]
     },
-    "Xamarin.AndroidX.Annotation/1.5.0.2": {
-      "sha512": "OzsaF35CBHiOvH6WIMBQxoic4J4Jg7ugLT7eu3b2WpihlHS7DSL/OkbJ9OHpWfaTBVLzE4O6QFatUYiGig4AqQ==",
+    "Xamarin.AndroidX.Annotation/1.6.0": {
+      "sha512": "D1iovMHiPoj9rlbh1MjtYbnpeS8UtKgFuKmNpwWrzs0xkkeTTNv7qYWDcjOdOf0aCHYyG3yFff6Nfb/RJtxtuQ==",
       "type": "package",
-      "path": "xamarin.androidx.annotation/1.5.0.2",
+      "path": "xamarin.androidx.annotation/1.6.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2265,7 +2303,7 @@
         "lib/net6.0-android31.0/Xamarin.AndroidX.Annotation.dll",
         "lib/net6.0-android31.0/Xamarin.AndroidX.Annotation.pdb",
         "lib/net6.0-android31.0/Xamarin.AndroidX.Annotation.xml",
-        "xamarin.androidx.annotation.1.5.0.2.nupkg.sha512",
+        "xamarin.androidx.annotation.1.6.0.nupkg.sha512",
         "xamarin.androidx.annotation.nuspec"
       ]
     },
@@ -2589,6 +2627,31 @@
         "lib/net6.0-android31.0/Xamarin.AndroidX.CustomView.xml",
         "xamarin.androidx.customview.1.1.0.15.nupkg.sha512",
         "xamarin.androidx.customview.nuspec"
+      ]
+    },
+    "Xamarin.AndroidX.CustomView.PoolingContainer/1.0.0.2": {
+      "sha512": "qYviVGHLMJHWWHgkElGQUTBP5PdFYYvT667fz4lYAUdozBs42+D1Ul4FELAoCb7dA088RrbS/wYTe+i0gbgDVw==",
+      "type": "package",
+      "path": "xamarin.androidx.customview.poolingcontainer/1.0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "THIRD-PARTY-NOTICES.txt",
+        "aar/androidx.customview.customview-poolingcontainer.aar",
+        "build/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.targets",
+        "build/net6.0-android31.0/Xamarin.AndroidX.CustomView.PoolingContainer.targets",
+        "buildTransitive/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.CustomView.PoolingContainer.targets",
+        "icon.png",
+        "lib/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.dll",
+        "lib/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.pdb",
+        "lib/monoandroid12.0/Xamarin.AndroidX.CustomView.PoolingContainer.xml",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.CustomView.PoolingContainer.dll",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.CustomView.PoolingContainer.pdb",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.CustomView.PoolingContainer.xml",
+        "xamarin.androidx.customview.poolingcontainer.1.0.0.2.nupkg.sha512",
+        "xamarin.androidx.customview.poolingcontainer.nuspec"
       ]
     },
     "Xamarin.AndroidX.DocumentFile/1.0.1.6": {
@@ -3011,21 +3074,29 @@
         "xamarin.androidx.print.nuspec"
       ]
     },
-    "Xamarin.AndroidX.RecyclerView/1.1.0.6": {
-      "sha512": "YNwQsPXJE6hMTpPGe3vkGPDNXQhYHwpIe3Ci8LgUwsjSoUolE5PwoBu1Ller3Jq9N0wUlRr+4DxeqcBiYwcOMw==",
+    "Xamarin.AndroidX.RecyclerView/1.3.0": {
+      "sha512": "eGWGg+YLEL3MW/SljyoB+bNbP9K/JQj6wc8JzBtS7sfg9qP9gv4FfIHuxPTG0mvVK+njVO5bp0UL+UlGfW7l5A==",
       "type": "package",
-      "path": "xamarin.androidx.recyclerview/1.1.0.6",
+      "path": "xamarin.androidx.recyclerview/1.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "THIRD-PARTY-NOTICES.txt",
         "aar/androidx.recyclerview.recyclerview.aar",
-        "build/monoandroid90/Xamarin.AndroidX.RecyclerView.targets",
-        "buildTransitive/monoandroid90/Xamarin.AndroidX.RecyclerView.targets",
-        "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll",
-        "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.pdb",
+        "build/monoandroid12.0/Xamarin.AndroidX.RecyclerView.targets",
+        "build/net6.0-android31.0/Xamarin.AndroidX.RecyclerView.targets",
+        "buildTransitive/monoandroid12.0/Xamarin.AndroidX.RecyclerView.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.RecyclerView.targets",
+        "icon.png",
+        "lib/monoandroid12.0/Xamarin.AndroidX.RecyclerView.dll",
+        "lib/monoandroid12.0/Xamarin.AndroidX.RecyclerView.pdb",
+        "lib/monoandroid12.0/Xamarin.AndroidX.RecyclerView.xml",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.RecyclerView.dll",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.RecyclerView.pdb",
+        "lib/net6.0-android31.0/Xamarin.AndroidX.RecyclerView.xml",
         "proguard/proguard.txt",
-        "xamarin.androidx.recyclerview.1.1.0.6.nupkg.sha512",
+        "xamarin.androidx.recyclerview.1.3.0.nupkg.sha512",
         "xamarin.androidx.recyclerview.nuspec"
       ]
     },
@@ -3706,10 +3777,10 @@
         "xamarin.jetbrains.annotations.nuspec"
       ]
     },
-    "Xamarin.Kotlin.StdLib/1.8.0.1": {
-      "sha512": "QbHXR2R2ieo85RgRnK/KA5OUVduRQj8sX6pueHIj2qJXs8FMU+NOCJOoGq5xNUlPgkcEBBoz+dS5wjmEscnnXg==",
+    "Xamarin.Kotlin.StdLib/1.8.10": {
+      "sha512": "u88EJtk3Aj7EU9fUIGS9yqdJkFxNHPxA46u4RD8Dyjs234oguHbJz5RXSJWmVB80Gvm/XzHixGPDBLS4LT71Sw==",
       "type": "package",
-      "path": "xamarin.kotlin.stdlib/1.8.0.1",
+      "path": "xamarin.kotlin.stdlib/1.8.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3719,19 +3790,19 @@
         "build/net6.0-android31.0/Xamarin.Kotlin.StdLib.targets",
         "buildTransitive/monoandroid12.0/Xamarin.Kotlin.StdLib.targets",
         "buildTransitive/net6.0-android31.0/Xamarin.Kotlin.StdLib.targets",
-        "jar/org.jetbrains.kotlin.kotlin-stdlib-1.8.0.jar",
+        "jar/org.jetbrains.kotlin.kotlin-stdlib-1.8.10.jar",
         "lib/monoandroid12.0/Xamarin.Kotlin.StdLib.dll",
         "lib/monoandroid12.0/Xamarin.Kotlin.StdLib.xml",
         "lib/net6.0-android31.0/Xamarin.Kotlin.StdLib.dll",
         "lib/net6.0-android31.0/Xamarin.Kotlin.StdLib.xml",
-        "xamarin.kotlin.stdlib.1.8.0.1.nupkg.sha512",
+        "xamarin.kotlin.stdlib.1.8.10.nupkg.sha512",
         "xamarin.kotlin.stdlib.nuspec"
       ]
     },
-    "Xamarin.Kotlin.StdLib.Common/1.8.0.1": {
-      "sha512": "4pP2nGTW8rQ6RZW2wSpN/gBYCeMBXy724292L326nUMh5yvZmEDAZTl4lK8X+BJMy0bBqmZrzxiLOjdqYnnN2Q==",
+    "Xamarin.Kotlin.StdLib.Common/1.8.10": {
+      "sha512": "U6lm2d+BosE+XlxZZUYHTOF2CSXuYakYOfamvYYVz9ZgX8137vU5WDMfarjeR1bFI4S7bOhblFoNwpXskpW7Ng==",
       "type": "package",
-      "path": "xamarin.kotlin.stdlib.common/1.8.0.1",
+      "path": "xamarin.kotlin.stdlib.common/1.8.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3741,12 +3812,12 @@
         "build/net6.0-android31.0/Xamarin.Kotlin.StdLib.Common.targets",
         "buildTransitive/monoandroid12.0/Xamarin.Kotlin.StdLib.Common.targets",
         "buildTransitive/net6.0-android31.0/Xamarin.Kotlin.StdLib.Common.targets",
-        "jar/org.jetbrains.kotlin.kotlin-stdlib-common-1.8.0.jar",
+        "jar/org.jetbrains.kotlin.kotlin-stdlib-common-1.8.10.jar",
         "lib/monoandroid12.0/Xamarin.Kotlin.StdLib.Common.dll",
         "lib/monoandroid12.0/Xamarin.Kotlin.StdLib.Common.xml",
         "lib/net6.0-android31.0/Xamarin.Kotlin.StdLib.Common.dll",
         "lib/net6.0-android31.0/Xamarin.Kotlin.StdLib.Common.xml",
-        "xamarin.kotlin.stdlib.common.1.8.0.1.nupkg.sha512",
+        "xamarin.kotlin.stdlib.common.1.8.10.nupkg.sha512",
         "xamarin.kotlin.stdlib.common.nuspec"
       ]
     },
@@ -3849,6 +3920,7 @@
       "Newtonsoft.Json >= 13.0.3",
       "TravelRecordApp >= 1.0.0",
       "Xam.Plugin.Geolocator >= 5.0.0-beta",
+      "Xamarin.AndroidX.RecyclerView >= 1.3.0",
       "Xamarin.Essentials >= 1.7.5",
       "Xamarin.Forms >= 5.0.0.2012",
       "Xamarin.Forms.Maps >= 5.0.0.2012",
@@ -3900,6 +3972,10 @@
           "Xam.Plugin.Geolocator": {
             "target": "Package",
             "version": "[5.0.0-beta, )"
+          },
+          "Xamarin.AndroidX.RecyclerView": {
+            "target": "Package",
+            "version": "[1.3.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

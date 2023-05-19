@@ -94,6 +94,21 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
+        <BundleResource Include="Resources\add.png" />
+        <BundleResource Include="Resources\add@2x.png" />
+        <BundleResource Include="Resources\add@4x.png" />
+        <BundleResource Include="Resources\home.png" />
+        <BundleResource Include="Resources\home@2x.png" />
+        <BundleResource Include="Resources\home@4x.png" />
+        <BundleResource Include="Resources\map.png" />
+        <BundleResource Include="Resources\map@2x.png" />
+        <BundleResource Include="Resources\map@4x.png" />
+        <BundleResource Include="Resources\save.png" />
+        <BundleResource Include="Resources\save@2x.png" />
+        <BundleResource Include="Resources\save@4x.png" />
+        <BundleResource Include="Resources\user.png" />
+        <BundleResource Include="Resources\user@2x.png" />
+        <BundleResource Include="Resources\user@4x.png" />
         <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
             <Visible>false</Visible>

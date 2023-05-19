@@ -5,6 +5,7 @@
              x:Class="TravelRecordApp.AddPage">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Save"
+                     IconImageSource="save.png"
                      Clicked="MenuItem_OnClicked"/>
     </ContentPage.ToolbarItems>
    
