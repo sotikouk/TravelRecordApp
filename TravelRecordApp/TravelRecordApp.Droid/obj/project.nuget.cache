@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tbFNn8vzLO/44bb1Jhw+mI+4Awve6QuCeR8Ij2boaDmLUkv+Q+2nPGdpDvvBDqvIAjFPF9hU1J8G3ZIsFLkWbg==",
+  "dgSpecHash": "9E5EOKe3Cs8Hr+UN01S1xtmjaijv4lyKkZ2Yi2GKW/MqueWOWxfIRJI1anCmSeMOVsvynaSjWXuzBRtMVnucdA==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.Droid/TravelRecordApp.Droid.csproj",
   "expectedPackageFiles": [
@@ -65,6 +65,7 @@
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.androidx.viewpager2/1.0.0.8/xamarin.androidx.viewpager2.1.0.0.8.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.build.download/0.11.4/xamarin.build.download.0.11.4.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.essentials/1.7.5/xamarin.essentials.1.7.5.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.firebase.ios.auth/8.10.0.3/xamarin.firebase.ios.auth.8.10.0.3.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms.maps/5.0.0.2012/xamarin.forms.maps.5.0.0.2012.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.google.android.material/1.2.1.1/xamarin.google.android.material.1.2.1.1.nupkg.sha512",

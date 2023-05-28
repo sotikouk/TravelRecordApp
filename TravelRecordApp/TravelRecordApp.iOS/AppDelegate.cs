@@ -24,6 +24,8 @@ namespace TravelRecordApp.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             Xamarin.FormsMaps.Init();
+
+            Firebase.Core.App.Configure();
             
             string dbName = "travel_db.sqlite";
             string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "..", "Library");

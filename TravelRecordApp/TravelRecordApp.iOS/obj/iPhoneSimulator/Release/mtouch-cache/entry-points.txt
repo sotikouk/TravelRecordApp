@@ -66,6 +66,65 @@ Function=xamarin_log
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_get_locale_country_code
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Core.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=BrotliDecoderCreateInstance
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
 Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
@@ -106,9 +165,6 @@ Function=xamarin_release_block_on_main_thread
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_get_original_working_directory_path
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=xamarin_start_wwan
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
 Function=xamarin_get_block_descriptor
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend
@@ -951,62 +1007,116 @@ Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
 	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=NetSecurityNative_ReleaseGssBuffer
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DisplayMinorStatus
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DisplayMajorStatus
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ImportUserName
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ImportPrincipalName
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ReleaseName
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitiateCredSpNego
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitiateCredWithPassword
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ReleaseCred
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitSecContext
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitSecContextEx
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_AcceptSecContext
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DeleteSecContext
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_GetUser
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_Wrap
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_Unwrap
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
-Function=SystemNative_GetDomainSocketSizes
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Core.dll
-Function=BrotliDecoderCreateInstance
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDecompressStream
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDecompress
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDestroyInstance
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderIsFinished
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCreateInstance
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderSetParameter
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCompressStream
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderHasMoreOutput
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderDestroyInstance
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCompress
-	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.IO.Compression.dll
+Field=FIRAuthErrorDomain
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoEmailKey
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoMultiFactorResolverKey
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoNameKey
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoUpdatedCredentialKey
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthStateDidChangeNotification
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuth
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeInfo
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeSettings
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeURL
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAdditionalUserInfo
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthCredential
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthDataResult
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthSettings
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthTokenResult
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailPasswordAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIREmailAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRFacebookAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGameCenterAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGameCenterAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGameCenterAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGitHubAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGoogleAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneMultiFactorID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactor
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorAssertion
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorInfo
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorResolver
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMultiFactorSession
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthCredential
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthCredential
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorAssertion
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorGenerator
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneMultiFactorInfo
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthProviderID
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthSignInMethod
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRTwitterAuthProvider
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUser
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserMetadata
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserProfileChangeRequest
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Auth.dll
+Function=FIRFirebaseVersion
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Firebase.Core.dll
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper
 Function=xamarin_dyn_objc_msgSend_stret

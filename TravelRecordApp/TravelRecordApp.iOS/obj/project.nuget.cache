@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GiUqwGupgV1ma88UEQKSkX9U5Zjdg8r4HRHnpPND9U5LDbGcwsXUavMgTMx+JBCBq8wYio3pyA3iZ2VkodL9bQ==",
+  "dgSpecHash": "WZ9R1x3MaNFdzNa7HLGD9N0x/JrNHJMLIuG4R3uyoElvOw+0E2+fL8gjoI7FKbxEGafiyVUHXcySaeEwydZ6dQ==",
   "success": true,
   "projectFilePath": "/Users/sotirioskoukoumtzis/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,10 @@
     "/Users/sotirioskoukoumtzis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xam.plugin.geolocator/4.5.0.6/xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.build.download/0.11.4/xamarin.build.download.0.11.4.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.essentials/1.8.0-preview1/xamarin.essentials.1.8.0-preview1.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.firebase.ios.auth/8.10.0.3/xamarin.firebase.ios.auth.8.10.0.3.nupkg.sha512",
+    "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.firebase.ios.core/8.10.0.3/xamarin.firebase.ios.core.8.10.0.3.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms/5.0.0.2599-pre1/xamarin.forms.5.0.0.2599-pre1.nupkg.sha512",
     "/Users/sotirioskoukoumtzis/.nuget/packages/xamarin.forms.maps/5.0.0.2599-pre1/xamarin.forms.maps.5.0.0.2599-pre1.nupkg.sha512"
   ],

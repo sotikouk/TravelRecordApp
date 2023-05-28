@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gcm_defaultSenderId" translatable="false">878491546141</string>
+  <string name="google_app_id" translatable="false">1:878491546141:android:0818d666847d24c6848cf4</string>
+  <string name="default_web_client_id" translatable="false">878491546141-dsfqtfb23mhe94nm87vk02afbe11mkpe.apps.googleusercontent.com</string>
+  <string name="google_api_key" translatable="false">AIzaSyBk85HoubJYBoWOvGdinu5CgAvyT6SPJK8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBk85HoubJYBoWOvGdinu5CgAvyT6SPJK8</string>
+  <string name="google_storage_bucket" translatable="false">travelrecordapp-f9ebb.appspot.com</string>
+  <string name="project_id" translatable="false">travelrecordapp-f9ebb</string>
+</resources>

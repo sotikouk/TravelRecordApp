@@ -12,6 +12,7 @@
         <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
         <AssemblyName>TravelRecordApp.iOS</AssemblyName>
         <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
         <DebugSymbols>true</DebugSymbols>
@@ -25,6 +26,8 @@
         <MtouchArch>x86_64</MtouchArch>
         <MtouchLink>None</MtouchLink>
         <MtouchDebug>true</MtouchDebug>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
+        <keysharing>true</keysharing>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
         <DebugType>none</DebugType>
@@ -35,6 +38,7 @@
         <MtouchLink>None</MtouchLink>
         <MtouchArch>x86_64</MtouchArch>
         <ConsolePause>false</ConsolePause>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
         <DebugSymbols>true</DebugSymbols>
@@ -46,7 +50,7 @@
         <WarningLevel>4</WarningLevel>
         <ConsolePause>false</ConsolePause>
         <MtouchArch>ARM64</MtouchArch>
-        <CodesignKey>iPhone Developer</CodesignKey>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
         <MtouchDebug>true</MtouchDebug>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
@@ -58,7 +62,7 @@
         <WarningLevel>4</WarningLevel>
         <MtouchArch>ARM64</MtouchArch>
         <ConsolePause>false</ConsolePause>
-        <CodesignKey>iPhone Developer</CodesignKey>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
@@ -71,7 +75,7 @@
         <MtouchArch>ARM64</MtouchArch>
         <BuildIpa>True</BuildIpa>
         <CodesignProvision>Automatic:AdHoc</CodesignProvision>
-        <CodesignKey>iPhone Distribution</CodesignKey>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
@@ -83,10 +87,11 @@
         <ConsolePause>False</ConsolePause>
         <MtouchArch>ARM64</MtouchArch>
         <CodesignProvision>Automatic:AppStore</CodesignProvision>
-        <CodesignKey>iPhone Distribution</CodesignKey>
+        <CodesignKey>Apple Development: sotirioskoukoumtzis@icloud.com (4P425233GG)</CodesignKey>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
     <ItemGroup>
+        <Compile Include="Dependencies\Auth.cs" />
         <Compile Include="Main.cs" />
         <Compile Include="AppDelegate.cs" />
         <None Include="Entitlements.plist" />
@@ -124,7 +129,10 @@
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
         <PackageReference Include="sqlite-net-pcl" Version="1.9.141-beta" />
         <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
+        <PackageReference Include="Xamarin.Build.Download" Version="0.11.4" />
         <PackageReference Include="Xamarin.Essentials" Version="1.8.0-preview1" />
+        <PackageReference Include="Xamarin.Firebase.iOS.Auth" Version="8.10.0.3" />
+        <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.10.0.3" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2599-pre1" />
         <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2599-pre1" />
     </ItemGroup>
@@ -133,6 +141,9 @@
             <Project>{881831CF-DDC8-403A-B004-7AA1EED160E6}</Project>
             <Name>TravelRecordApp</Name>
         </ProjectReference>
+    </ItemGroup>
+    <ItemGroup>
+      <BundleResource Include="GoogleService-Info.plist" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

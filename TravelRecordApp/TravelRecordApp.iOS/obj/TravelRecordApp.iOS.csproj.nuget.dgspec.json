@@ -44,9 +44,21 @@
               "target": "Package",
               "version": "[4.5.0.6, )"
             },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.11.4, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.8.0-preview1, )"
+            },
+            "Xamarin.Firebase.iOS.Auth": {
+              "target": "Package",
+              "version": "[8.10.0.3, )"
+            },
+            "Xamarin.Firebase.iOS.Core": {
+              "target": "Package",
+              "version": "[8.10.0.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
